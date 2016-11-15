@@ -7,6 +7,11 @@ using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
+/* 
+ * Taken from StackOverflow thread
+ * http://stackoverflow.com/questions/160587/no-output-to-console-from-a-wpf-application
+*/
+
 namespace InventoryManager
 {
         [SuppressUnmanagedCodeSecurity]
