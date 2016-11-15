@@ -13,12 +13,16 @@ namespace InventoryManager.Classes
         public Push(Server server)
         {
             this.cs = server.cs;
+            //this.schema = schema;
+            //this.table = table;
         }
 
         public string cs { get; set; }
+        //public string schema { get; set; }
+        //public string table { get; set; }
 
-
-        public void addPerson(string name, string email, string tlf, DateTime date, int position, string schema, string table)
+        
+        public void addVolunteer(string name, string email, string tlf, DateTime date, int position, string schema, string table)
         {
             MySqlConnection conn = null;
             conn = new MySqlConnection(cs);
@@ -31,7 +35,7 @@ namespace InventoryManager.Classes
             conn.Close();
         }
 
-        public void deletePersonByID(int id, string schema)
+        public void deleteVolunteerByID(int id, string schema)
         {
             MySqlConnection conn = null;
             conn = new MySqlConnection(cs);

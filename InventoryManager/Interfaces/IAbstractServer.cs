@@ -8,6 +8,7 @@ namespace InventoryManager.Interfaces
 {
     public interface IAbstractServer
     {
-        string cs { get; set; } //Connection string, containing IP, user, password etc.
+        //Connection string, containing IP, user, password etc.
+        string cs { get; set; }
     }
 }

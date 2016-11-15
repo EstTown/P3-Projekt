@@ -13,9 +13,13 @@ namespace InventoryManager.Classes
         public Fetch(Server server)
         {
             this.cs = server.cs;
+            //this.schema = schema;
+            //this.table = table;
         }
 
         public string cs { get; set; }
+        //public string schema { get; set; }
+        //public string table { get; set; }
 
 
         public List<IVolunteer> AllStaff(string schema, string table)
@@ -121,6 +125,7 @@ namespace InventoryManager.Classes
                 Product tmp = new Product();
                 tmp.id = Convert.ToInt32(reader["id"]);
                 tmp.name = Convert.ToString(reader["name"]);
+                tmp.price = Convert.ToInt32(reader["price"]);
                 tmp.desc = Convert.ToString(reader["desc"]);
                 tmp.date = Convert.ToDateTime(reader["date"]);
                 productList.Add(tmp);
