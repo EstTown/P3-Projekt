@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using InventoryManager.Classes;
+using InventoryManager.Interfaces;
 
 namespace InventoryManager
 {
@@ -23,6 +25,15 @@ namespace InventoryManager
         public MainWindow()
         {
             InitializeComponent();
+
+
+            Server server = new Server("172.25.11.109", "admin", "Baesystems2016", "test");
+            Fetch fetch = new Fetch(server);
+            Push push = new Push(server);
+
+            
+
+
         }
     }
 }

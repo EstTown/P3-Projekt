@@ -1,1 +1,17 @@
 C:\Users\esttown\Source\Repos\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\MainWindow.g.cs
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\App.g.cs
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager_MarkupCompile.cache
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager_MarkupCompile.lref
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\MainWindow.baml
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.g.resources
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\MySql.Data.dll
+C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\MySql.Data.xml
