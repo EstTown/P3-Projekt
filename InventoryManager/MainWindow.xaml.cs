@@ -31,7 +31,8 @@ namespace InventoryManager
             Fetch fetch = new Fetch(server);
             Push push = new Push(server);
 
-            
+            ConsoleManager.Show();
+            Console.WriteLine("Hello m'lady");
 
 
         }

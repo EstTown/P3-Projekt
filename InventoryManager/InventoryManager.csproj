@@ -70,6 +70,7 @@
     <Compile Include="Classes\Product.cs" />
     <Compile Include="Classes\Server.cs" />
     <Compile Include="Classes\Volunteer.cs" />
+    <Compile Include="ConsoleManager.cs" />
     <Compile Include="Interfaces\IAbstractServer.cs" />
     <Compile Include="Interfaces\IFetch.cs" />
     <Compile Include="Interfaces\IManager.cs" />
