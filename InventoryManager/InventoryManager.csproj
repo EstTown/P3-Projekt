@@ -57,7 +57,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Classes\TestClass.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="ViewModels\CreateProductViewModel.cs" />
     <Compile Include="Views\AddProductView.xaml.cs">
