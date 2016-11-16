@@ -15,3 +15,4 @@ C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryMan
 C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\obj\Debug\InventoryManager.pdb
 C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\MySql.Data.dll
 C:\Users\esttown\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\MySql.Data.xml
+C:\Users\Dascham\Source\Repos\P3-Projekt\InventoryManager\bin\Debug\InventoryManager.exe.config
