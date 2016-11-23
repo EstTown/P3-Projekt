@@ -3,8 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:InventoryManager"
              xmlns:drawing="clr-namespace:System.Drawing;assembly=System.Drawing"
-             StartupUri="MainWindow.xaml">
+             StartupUri="Views/TemplateView.xaml">
     <Application.Resources>
-        <BitmapImage x:Key="DanmissionLogo">UriSource="C:\Users\Dascham\Source\Repos\P3-Projekt\InventoryManager\Resources\DanmissionLogo.PNG"</BitmapImage>
+        <BitmapImage x:Key="DanmissionLogo">Resources/DanmissionLogo.PNG</BitmapImage>
+        
     </Application.Resources>
 </Application>

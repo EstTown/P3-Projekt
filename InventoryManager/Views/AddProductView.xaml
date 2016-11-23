@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="AddProductView" Height="300" Width="300">
     <Grid>
-        
+        <Image Source="{StaticResource DanmissionLogo}" Margin="98.308,10,98.269,0" Height="62.707" VerticalAlignment="Top" d:LayoutOverrides="Height, TopMargin, BottomMargin"  />
     </Grid>
 </Window>

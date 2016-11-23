@@ -57,10 +57,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Commands\RelayCommand.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="ViewModels\CreateProductViewModel.cs" />
+    <Compile Include="ViewModels\TemplateViewModel.cs" />
     <Compile Include="Views\AddProductView.xaml.cs">
       <DependentUpon>AddProductView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TemplateView.xaml.cs">
+      <DependentUpon>TemplateView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -88,6 +93,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Views\AddProductView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\TemplateView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

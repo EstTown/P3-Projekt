@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Dascham\Source\Repos\P3-Projekt\InventoryManager\App.xaml
-2374633296
+3483009583
 
-252011179463
+28-940810920
 15-194080802
-MainWindow.xaml;Views\AddProductView.xaml;
+MainWindow.xaml;Views\AddProductView.xaml;Views\TemplateView.xaml;
 
-True
+False
 
